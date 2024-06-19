@@ -1,5 +1,11 @@
 # ai
 
+## 3.2.1
+
+### Patch Changes
+
+- 520fb2d5: feat (rsc): add streamUI onFinish callback
+
 ## 3.2.0
 
 ### Minor Changes
