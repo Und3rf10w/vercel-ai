@@ -1,5 +1,11 @@
 # @ai-sdk/anthropic
 
+## 2.0.0-beta.10
+
+### Patch Changes
+
+- 269683f: Add raw Anthropic usage information to provider metadata
+
 ## 2.0.0-beta.9
 
 ### Patch Changes
