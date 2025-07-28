@@ -1,5 +1,11 @@
 # ai
 
+## 5.0.0-beta.29
+
+### Patch Changes
+
+- d92b9a8: fix(ai): add support for MCP protocol version 2025-06-18
+
 ## 5.0.0-beta.28
 
 ### Patch Changes

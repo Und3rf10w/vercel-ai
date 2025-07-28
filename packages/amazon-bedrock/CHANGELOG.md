@@ -1,5 +1,11 @@
 # @ai-sdk/amazon-bedrock
 
+## 3.0.0-beta.12
+
+### Patch Changes
+
+- 0893170: fix(amazon-bedrock): handle empty activeTools with tool conversation history
+
 ## 3.0.0-beta.11
 
 ### Patch Changes
