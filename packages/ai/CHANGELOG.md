@@ -1,5 +1,13 @@
 # ai
 
+## 5.0.11
+
+### Patch Changes
+
+- e3a63cb: fix(ai): streamText promises reject when stream has errors
+- Updated dependencies [cf7b2ad]
+  - @ai-sdk/gateway@1.0.5
+
 ## 5.0.10
 
 ### Patch Changes
